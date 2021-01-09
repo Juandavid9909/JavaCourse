@@ -24,7 +24,7 @@ public class Aritmetica {
     }
     
     public int sumarConRetorno() {
-        int resultado = a + b;
+        int resultado = this.a + this.b;
         return resultado;
     }
     
